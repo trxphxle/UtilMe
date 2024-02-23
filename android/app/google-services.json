@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988491148120",
+    "project_id": "utilme-auth",
+    "storage_bucket": "utilme-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988491148120:android:f9e6cfd778d6282b35932d",
+        "android_client_info": {
+          "package_name": "com.rnfirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988491148120-9cptgl66l1v6b4kptm1ndcbkb4nahl93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsX7l_X0hxR0KywK0T5Kf_Soj69UuS2Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988491148120-9cptgl66l1v6b4kptm1ndcbkb4nahl93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
